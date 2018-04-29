@@ -219,7 +219,7 @@ And that's it! Run the app and check it out yourself!
 
 ### What's in The Next Tutorial
 
-In the next tutorial, we are going to add a new activity to display the details of each note and learn how to switch between activities using **Intents** !!!
+In the [**next tutorial**](https://androidpirate.github.io/NoteAppIntents/  "**next tutorial**"), we are going to add a new activity to display the details of each note and learn how to switch between activities using **Intents** !!!
 
 
 
